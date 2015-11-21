@@ -1,3 +1,2 @@
-# Elemental project README file
+# Elemental Project
 # RaiderSoft
-# Kevin Sahr, November 20, 2015
